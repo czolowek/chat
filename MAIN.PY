@@ -1,4 +1,4 @@
-from utils.config import BOT_TOKEN
+
 import asyncio
 from telegram import Update, ReplyKeyboardRemove
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
